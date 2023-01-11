@@ -17,20 +17,16 @@
    - Change command classes in the task 2 (These Command will get and return this general data carrier.)
 
   Task4
-     <EXT>
-   <commandName>addressUpdate</commandName>
-   <Input>
-   <p n=”AD”>value</p>
-   ….
-   </Input>
-   <Output>
-   <p n=”SONUC/>
-   ….
-   </Output>
-   </EXT>
+<EXT>
+<command>
+<commandName>customer_add</commandName>
+<customerName>Pedro</customerName>
+<customerSurname>Castillo</customerSurname>
+</command>
+</EXT>
    
--Tomcat Kurulumu
--Basit Servlet Uygulaması geliştirme
+  -Tomcat Kurulumu
+  -Basit Servlet Uygulaması geliştirme
    
  
  
