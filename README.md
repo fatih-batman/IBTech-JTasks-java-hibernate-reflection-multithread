@@ -17,17 +17,10 @@
    - Change command classes in the task 2 (These Command will get and return this general data carrier.)
 
   Task4
-<EXT>
-<command>
-<commandName>customer_add</commandName>
-<customerName>Pedro</customerName>
-<customerSurname>Castillo</customerSurname>
-</command>
-</EXT>
-   
-  -Tomcat Kurulumu
-  -Basit Servlet Uygulaması geliştirme
-   
+   -Tomcat Kurulumu
+   -Basit Servlet Uygulaması geliştirme
+   ![image](https://user-images.githubusercontent.com/78312646/211751340-4c185e41-fd4f-4345-9f72-34e56a5ee837.png)
+
  
  
  
